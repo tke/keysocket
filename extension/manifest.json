@@ -26,6 +26,10 @@
     {
       "matches": ["http://www.pandora.com/*"],
       "js": ["keysocket-pandora.js"]
+    },
+    {
+      "matches": ["http://beta.mflow.com/*"],
+      "js": ["keysocket-mflow.js"]
     }
   ]
 }
